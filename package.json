@@ -1,0 +1,12 @@
+{
+  "name": "aoc",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "advent of code",
+  "scripts": {
+  },
+  "author": {
+    "name": "Christopher Miller"
+  },
+  "license": "MIT"
+}
